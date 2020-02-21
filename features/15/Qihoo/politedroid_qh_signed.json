@@ -1,0 +1,22 @@
+{
+    "clazz": [
+        "Lcom/qihoo/util/StubApplication;"
+    ], 
+    "library": [
+        "libjiagu_art.so", 
+        "libjiagu.so", 
+        "libjiagu_x86.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "ChangeTopApplication", 
+        "copy", 
+        "getNewAppInstance", 
+        "interface7", 
+        "interface8", 
+        "isSameFile", 
+        "attachBaseContext", 
+        "onCreate"
+    ]
+}

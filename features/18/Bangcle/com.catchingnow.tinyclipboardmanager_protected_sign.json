@@ -1,0 +1,49 @@
+{
+    "clazz": [
+        "Lcom/SecShell/SecShell/ApplicationWrapper;", 
+        "Lcom/SecShell/SecShell/BuildConfig;", 
+        "Lcom/SecShell/SecShell/DexInstall;", 
+        "Lcom/SecShell/SecShell/FilesFileObserver;", 
+        "Lcom/SecShell/SecShell/Helper;", 
+        "Lcom/SecShell/SecShell/R;", 
+        "Lcom/SecShell/SecShell/SecPathClassLoader;"
+    ], 
+    "library": [
+        "libSecShell.so", 
+        "libSecShell-x86.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "attachBaseContext", 
+        "onConfigurationChanged", 
+        "onCreate", 
+        "onLowMemory", 
+        "onTerminate", 
+        "onTrimMemory", 
+        "expandFieldArray", 
+        "findField", 
+        "findMethod", 
+        "install", 
+        "installSecondaryDexes", 
+        "miui_notify", 
+        "onEvent", 
+        "InvokeObject", 
+        "attach", 
+        "azbycx", 
+        "cB", 
+        "cC", 
+        "cD", 
+        "cF", 
+        "cI", 
+        "cJ", 
+        "cL", 
+        "cS", 
+        "cV", 
+        "cZ", 
+        "h", 
+        "makeInMemoryDexElements", 
+        "stub", 
+        "findClass"
+    ]
+}

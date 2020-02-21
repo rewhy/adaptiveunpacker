@@ -1,0 +1,17 @@
+{
+    "clazz": [
+        "Lcom/qihoo/util/Configuration;", 
+        "Lcom/qihoo/util/QHDialog;"
+    ], 
+    "library": [
+        "libjiagu_art.so", 
+        "libjiagu_art.so", 
+        "libjiagu.so", 
+        "libjiagu_x86.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "showDialog"
+    ]
+}

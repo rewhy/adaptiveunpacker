@@ -1,0 +1,29 @@
+{
+    "clazz": [
+        "Lcom/qihoo/util/DefenceReport;", 
+        "Lcom/qihoo/util/StubApplication;"
+    ], 
+    "library": [
+        "libJniTest.so", 
+        "libJniTest.so", 
+        "libJniTest.so", 
+        "libprotectClass.so", 
+        "libprotectClass_x86.so", 
+        "libqupc.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "changeValuePos", 
+        "checkPermission", 
+        "executeHttpPost", 
+        "getRandId", 
+        "isExec", 
+        "md5", 
+        "run", 
+        "copy", 
+        "isSameFile", 
+        "attachBaseContext", 
+        "onCreate"
+    ]
+}

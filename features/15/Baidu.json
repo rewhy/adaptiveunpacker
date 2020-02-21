@@ -1,0 +1,38 @@
+{
+    "clazz": [
+        "Lcom/baidu/protect/A;", 
+        "Lcom/baidu/protect/StubApplication;", 
+        "Lcom/baidu/protect/StubProvider;"
+    ], 
+    "library": [
+        "libbaiduprotect.so", 
+        "libbaiduprotect_x86.so", 
+        "libJniTest.so"
+    ], 
+    "method": [
+        "<init>", 
+        "<clinit>", 
+        "getDataFolder", 
+        "is64BitEnv", 
+        "isX86CPU", 
+        "loadX86Library", 
+        "getPackageName", 
+        "onCreate", 
+        "delete", 
+        "getType", 
+        "insert", 
+        "query", 
+        "update", 
+        "callBooleanMethod", 
+        "callByteMethod", 
+        "callCharMethod", 
+        "callDoubleMethod", 
+        "callFloatMethod", 
+        "callIntMethod", 
+        "callLongMethod", 
+        "callObjectMethod", 
+        "callShortMethod", 
+        "callVoidMethod", 
+        "getMethod"
+    ]
+}

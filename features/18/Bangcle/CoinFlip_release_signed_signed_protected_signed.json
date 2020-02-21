@@ -1,0 +1,34 @@
+{
+    "clazz": [
+        "Lcom/secshell/secData/ApplicationWrapper;", 
+        "Lcom/secshell/secData/BuildConfig;", 
+        "Lcom/secshell/secData/DexInstall;", 
+        "Lcom/secshell/secData/FilesFileObserver;", 
+        "Lcom/secshell/secData/Helper;", 
+        "Lcom/secshell/secData/R;"
+    ], 
+    "library": [
+        "libSecShell.so", 
+        "libSecShell-x86.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "attachBaseContext", 
+        "onConfigurationChanged", 
+        "onCreate", 
+        "onLowMemory", 
+        "onTerminate", 
+        "onTrimMemory", 
+        "expandFieldArray", 
+        "findField", 
+        "findMethod", 
+        "install", 
+        "installSecondaryDexes", 
+        "miui_notify", 
+        "onEvent", 
+        "attach", 
+        "h", 
+        "stub"
+    ]
+}

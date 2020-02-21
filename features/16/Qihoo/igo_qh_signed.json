@@ -1,0 +1,31 @@
+{
+    "clazz": [
+        "Lcom/qihoo/util/Configuration;", 
+        "Lcom/qihoo/util/QHDialog;", 
+        "Lcom/qihoo/util/StubApp;"
+    ], 
+    "library": [
+        "libjiagu_art.so", 
+        "libjiagu.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "showDialog", 
+        "copy", 
+        "getAppContext", 
+        "initAssetForNative", 
+        "initCrashReport", 
+        "interface5", 
+        "interface6", 
+        "isSameFile", 
+        "isX86Arch", 
+        "mark", 
+        "n01110", 
+        "n01133", 
+        "prepareInitCrashReport", 
+        "attachBaseContext", 
+        "n11130", 
+        "onCreate"
+    ]
+}

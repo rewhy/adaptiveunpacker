@@ -1,0 +1,36 @@
+{
+    "clazz": [
+        "Lcom/qihoo/util/Configuration;", 
+        "Lcom/qihoo/util/GameApplication;", 
+        "Lcom/qihoo/util/LiteApplication;", 
+        "Lcom/qihoo/util/QHDialog;", 
+        "Lcom/qihoo/replugin/Entry;"
+    ], 
+    "library": [
+        "libjiagu_art.so", 
+        "libjiagu.so", 
+        "libjiagu_x86.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "getAppContext", 
+        "getDir", 
+        "getString2", 
+        "interface10", 
+        "interface11", 
+        "interface12", 
+        "interface14", 
+        "interface17", 
+        "interface5", 
+        "interface6", 
+        "interface7", 
+        "interface8", 
+        "load", 
+        "mark", 
+        "attachBaseContext", 
+        "showDialog", 
+        "create", 
+        "init"
+    ]
+}

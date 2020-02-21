@@ -1,0 +1,12 @@
+{
+    "clazz": [
+        "Lcom/qihoo/util/Configuration;", 
+        "Lcom/qihoo/util/QHDialog;"
+    ], 
+    "library": [], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "showDialog"
+    ]
+}

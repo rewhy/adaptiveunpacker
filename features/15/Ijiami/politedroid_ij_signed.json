@@ -1,0 +1,18 @@
+{
+    "clazz": [
+        "Lcom/shell/NativeApplication;"
+    ], 
+    "library": [
+        "libexecmain.so", 
+        "libexec.so", 
+        "libexecmain.so", 
+        "libexec.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "load", 
+        "run", 
+        "runAll"
+    ]
+}

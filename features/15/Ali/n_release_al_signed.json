@@ -1,0 +1,21 @@
+{
+    "clazz": [
+        "Lcom/ali/mobisecenhance/StubApplication;"
+    ], 
+    "library": [
+        "libJniTest.so", 
+        "libmobisec.so", 
+        "libJniTest.so", 
+        "libmobisecx.so", 
+        "libmobisecy.so", 
+        "libJniTest.so", 
+        "libmobisec.so", 
+        "libmobisecz.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "attachBaseContext", 
+        "onCreate"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "clazz": [
+        "Lcom/tencent/StubShell/ProxyShell;", 
+        "Lcom/tencent/StubShell/ShellHelper;"
+    ], 
+    "library": [
+        "libmain.so", 
+        "libshell.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "InitStartShell", 
+        "getArtShell", 
+        "getFileMD5", 
+        "getLibShell", 
+        "StartShell", 
+        "load", 
+        "DexVersion", 
+        "GetVersionFromFile", 
+        "InitProxyShell", 
+        "MainVersion", 
+        "ShellVersion", 
+        "WriteDexVersion", 
+        "WriteMainVersion", 
+        "WriteShellVersion", 
+        "WriteVersionToFile", 
+        "getFileFromApk", 
+        "getPackageName", 
+        "getPackagePath"
+    ]
+}

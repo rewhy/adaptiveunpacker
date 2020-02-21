@@ -1,0 +1,8 @@
+{
+    "clazz": [], 
+    "library": [
+        "libmain.so", 
+        "libshell.so"
+    ], 
+    "method": []
+}

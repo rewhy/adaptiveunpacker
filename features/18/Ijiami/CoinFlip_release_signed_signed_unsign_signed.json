@@ -1,0 +1,25 @@
+{
+    "clazz": [
+        "Ls/h/e/l/l/N;", 
+        "Ls/h/e/l/l/S;"
+    ], 
+    "library": [
+        "libexecmain.so", 
+        "libexec.so", 
+        "libexec.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "b2b", 
+        "l", 
+        "m", 
+        "r", 
+        "ra", 
+        "sa", 
+        "c", 
+        "g", 
+        "attachBaseContext", 
+        "onCreate"
+    ]
+}

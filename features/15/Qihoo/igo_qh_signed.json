@@ -1,0 +1,20 @@
+{
+    "clazz": [
+        "Lcom/qihoo/util/StubApplication;"
+    ], 
+    "library": [
+        "libjiagu_art.so", 
+        "libjiagu.so", 
+        "libjiagu_x86.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "copy", 
+        "isSameFile", 
+        "n010", 
+        "n033", 
+        "attachBaseContext", 
+        "onCreate"
+    ]
+}

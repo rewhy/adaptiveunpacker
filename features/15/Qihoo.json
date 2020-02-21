@@ -1,0 +1,37 @@
+{
+    "clazz": [
+        "Lcom/qihoo/util/StubApplication;", 
+        "Lcom/qihoo/util/StartActivity;", 
+        "Lcom/qihoo/util/DefenceReport;"
+    ], 
+    "library": [
+        "libjiagu_art.so", 
+        "libjiagu.so", 
+        "libjiagu_x86.so", 
+        "libprotectClass.so", 
+        "libprotectClass_x86.so", 
+        "libqupc.so", 
+        "libJniTest.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "copy", 
+        "isSameFile", 
+        "attachBaseContext", 
+        "onCreate", 
+        "n010", 
+        "n033", 
+        "ChangeTopApplication", 
+        "getNewAppInstance", 
+        "interface7", 
+        "interface8", 
+        "changeValuePos", 
+        "checkPermission", 
+        "executeHttpPost", 
+        "getRandId", 
+        "isExec", 
+        "md5", 
+        "run"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "clazz": [
+        "Lcom/baidu/protect/A;", 
+        "Lcom/baidu/protect/CrashHandler;", 
+        "Lcom/baidu/protect/StubApplication;", 
+        "Lcom/baidu/protect/StubProvider;"
+    ], 
+    "library": [
+        "libbaiduprotect.so", 
+        "libbaiduprotect.so", 
+        "libbaiduprotect_x86.so"
+    ], 
+    "method": [
+        "<init>", 
+        "B", 
+        "C", 
+        "D", 
+        "F", 
+        "I", 
+        "J", 
+        "L", 
+        "S", 
+        "V", 
+        "Z", 
+        "a", 
+        "b", 
+        "c", 
+        "d", 
+        "hasMoreElements", 
+        "nextElement", 
+        "getInstance", 
+        "init", 
+        "uncaughtException", 
+        "<clinit>", 
+        "getDataFolder", 
+        "is64BitEnv", 
+        "isX86CPU", 
+        "loadX86Library", 
+        "reloadSP", 
+        "getPackageName", 
+        "onCreate", 
+        "delete", 
+        "getType", 
+        "insert", 
+        "query", 
+        "update"
+    ]
+}

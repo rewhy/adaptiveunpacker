@@ -1,0 +1,24 @@
+{
+    "clazz": [
+        "Lcom/shell/NativeApplication;", 
+        "Lcom/shell/SuperApplication;"
+    ], 
+    "library": [
+        "libexecmain.so", 
+        "libexec.so", 
+        "libexecload.so", 
+        "libJniTest.so"
+    ], 
+    "method": [
+        "<clinit>", 
+        "<init>", 
+        "load", 
+        "run", 
+        "runAll", 
+        "copyLib", 
+        "getCRC32", 
+        "attachBaseContext", 
+        "loadLibs", 
+        "onCreate"
+    ]
+}
