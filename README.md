@@ -1,4 +1,4 @@
-## PackerGrind: An Adaptive Unpacking System for Android Apps
+## Adaptively Unpacking Packed/Hardened Android Apps
 
 An adaptive unpacking tool for tracking packing bahaviors and unpacking Android packed apps
 
